@@ -1,6 +1,6 @@
 # Hello there!
 
-My name is Denis, I'm a junior Java developer currently studying at Hexlet School on a Java backend-dev track. Have a solid background in tech-medical field.
+My name is Denis, I'm a junior Java developer currently studying at Hexlet School on a Java backend-dev track. Have a solid background in medical-tech field.
 * 🌍  I'm currently based in Bishkek, Kyrgyzstan. Lived in Saint-Petersburg, Russia for 15 years.
 
 ## 📫 Contact Me
