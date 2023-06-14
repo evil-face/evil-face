@@ -29,7 +29,7 @@ My name is Denis, I'm a junior Java developer currently studying at Hexlet Schoo
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | C2                                                                        |
+| English       | C1                                                                        |
 | Russian       | Native                                                                    |
 
 ## What I'm currently learning 📚
