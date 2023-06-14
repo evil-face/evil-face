@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello there!
 
-<!--
-**evil-face/evil-face** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Denis, I'm a junior Java developer currently studying at Hexlet School on a Java backend-dev track. 
+* 🌍  I'm currently based in Bishkek, Kyrgyzstan. Lived in Saint-Petersburg, Russia for 15 years.
 
-Here are some ideas to get you started:
+## 📫 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:den.bragin@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" width="18" height="18" alt="Email" /></a> [Email](mailto:den.bragin@gmail.com)  |  <a href="https://www.linkedin.com/in/denbragin" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="18" height="18" alt="LinkedIn" /></a> [LinkedIn](https://www.linkedin.com/in/denbragin) | <a href="t.me/evil_face" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/299513/telegram.svg" width="18" height="18" alt="Telegram" /></a> [Telegram](https://t.me/evil_face)
+
+<details>
+<summary>
+  <h2>
+  My skills:
+  </h2>
+</summary>
+
+### Technologies
+
+- Java
+- Gradle, Maven
+- CI/CD (GitHub Actions)
+- JUnit
+- HTML, CSS
+- SQL, PostgreSQL
+- Javalin, Ebean
+- Thymeleaf
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | C2                                                                        |
+| Russian       | Native                                                                    |
+
+## What I'm currently learning 📚
+
+- Spring and Spring Boot
