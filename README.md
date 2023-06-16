@@ -5,8 +5,11 @@ My name is Denis, I'm a junior Java developer currently studying at Hexlet Schoo
 🌍 I'm currently based in Bishkek, Kyrgyzstan. Lived in Saint-Petersburg, Russia for 15 years.
 
 ## 📫 Contact Me
+![mailto:den.bragin@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![http://t.me/evil_face](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![https://www.linkedin.com/in/denbragin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<a href="mailto:den.bragin@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" width="18" height="18" alt="Email" /></a> [Email](mailto:den.bragin@gmail.com)  |  <a href="https://www.linkedin.com/in/denbragin" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="18" height="18" alt="LinkedIn" /></a> [LinkedIn](https://www.linkedin.com/in/denbragin) | <a href="t.me/evil_face" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/299513/telegram.svg" width="18" height="18" alt="Telegram" /></a> [Telegram](https://t.me/evil_face)
+
 
 <details>
 <summary>
