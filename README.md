@@ -5,10 +5,9 @@ My name is Denis, I'm a junior Java developer currently studying at Hexlet Schoo
 🌍 I'm currently based in Bishkek, Kyrgyzstan. Lived in Saint-Petersburg, Russia for 15 years.
 
 ## 📫 Contact Me
-![mailto:den.bragin@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![http://t.me/evil_face](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![https://www.linkedin.com/in/denbragin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:den.bragin@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/evil_face)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denbragin)
 
 
 <details>
