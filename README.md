@@ -9,32 +9,15 @@ My name is Denis, I'm a junior Java developer currently studying at Hexlet Schoo
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/evil_face)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denbragin)
 
+## 🧑‍💻️ Technologies
+Java  •  Gradle, Maven  •  CI/CD (GitHub Actions)  •  JUnit  •  HTML, CSS  •  SQL, PostgreSQL  •  Javalin, Ebean  •  Thymeleaf
 
-<details>
-<summary>
-  <h2>
-  My skills:
-  </h2>
-</summary>
-
-### Technologies
-
-- Java
-- Gradle, Maven
-- CI/CD (GitHub Actions)
-- JUnit
-- HTML, CSS
-- SQL, PostgreSQL
-- Javalin, Ebean
-- Thymeleaf
-
-### Languages 🌐
+## 🌐 Languages 
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English       | C1                                                                        |
 | Russian       | Native                                                                    |
 
-## What I'm currently learning 📚
-
-- Spring and Spring Boot
+## 📚 What I'm currently learning 
+➡️ Spring and Spring Boot
